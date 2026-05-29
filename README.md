@@ -11,6 +11,7 @@ A simple, beginner-friendly Python script that captures audio from a microphone 
   - Unintelligible audio
   - Network connectivity issues
   - Missing microphone or dependencies
+  - 
 
 ## Prerequisites
 - Python 3.x installed on your system.
