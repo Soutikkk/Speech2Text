@@ -7,6 +7,7 @@ def speech_to_text():
 
     # 2. Use the default microphone as the audio source
     # You will need the 'PyAudio' library installed to use the microphone
+    # try downloading it using pip install PyAudio
     try:
         with sr.Microphone() as source:
             print("Adjusting for ambient noise... Please wait.")
