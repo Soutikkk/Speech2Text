@@ -1,5 +1,6 @@
 # Speech-to-Text Utility
 
+
 A simple, beginner-friendly Python script that captures audio from a microphone and converts it into text using the `SpeechRecognition` library and Google's Web Speech API.
 
 ## Features
